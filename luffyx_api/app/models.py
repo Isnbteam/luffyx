@@ -31,7 +31,7 @@ class CourseSubCategory(models.Model):
 class DegreeCourse(models.Model):
     """学位课程"""
     name = models.CharField(max_length=128, unique=True)
-    course_img = models.CharField(max_length=255, verbose_name="缩略图", upload_to='avatar', default="avatar/default.png")
+    course_img = models.CharField(max_length=255, verbose_name="缩略图")
     brief = models.TextField(verbose_name="学位课程简介", )
     total_scholarship = models.PositiveIntegerField(verbose_name="总奖学金(贝里)", default=40000)
     mentor_compensation_bonus = models.PositiveIntegerField(verbose_name="本课程的导师辅导费用(贝里)", default=15000)
