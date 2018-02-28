@@ -18,6 +18,7 @@ from django.contrib import admin
 from app import views
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
+    url(r'^login/', views.LoginView.as_view()),
     url(r'^courses/$', views.CourseView.as_view()),
     url(r'^courses/(?P<pk>\d+)\.(?P<format>[a-z0-9]+)$', views.CourseView.as_view()),
 
