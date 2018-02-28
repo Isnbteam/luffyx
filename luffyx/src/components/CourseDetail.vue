@@ -4,7 +4,7 @@
     <h1>{{name}}</h1>
     <span>{{course_slogan}}</span>
     <div>
-      <ul>
+      <ul id="qh">
         <li><span v-on:click="qh(1)">课程概述</span></li>
         <li><span v-on:click="qh(2)">课程章节</span></li>
         <li><span v-on:click="qh(3)">用户评价</span></li>
@@ -13,7 +13,7 @@
       <div v-show="a[0]">
         <h2>课程概述</h2>
         <p>{{video_brief_link}}</p>
-        <span class="gs">学习时间：{{hours}}</span>
+        <span class="gs">学习时间：{{hours}}小时</span>
         <span class="gs">难度：{{level}}</span>
         <span class="gs">学习人数：0人</span>
         <div>
@@ -38,13 +38,42 @@
           <h3>{{item.name}}、{{item.title}}</h3>
           <img src="\static\img\peiqi@3x_1517450115.4163337.png">
           <span>{{item.signature}}</span>
-          <span>{{item.brief}}</span>
+          <p>{{item.brief}}</p>
 
         </div>
       </div>
-      <div v-show="a[1]">课程章节</div>
-      <div v-show="a[2]">用户评价</div>
-      <div v-show="a[3]">常见问题</div>
+      <div v-show="a[1]">
+        <h2>课程章节</h2>
+       <div>
+         <ul>
+           <li v-for="i in coursechapterList">
+             <h3>第{{i.chapter}}章&nbsp;{{i.name}}</h3>
+             <ul>
+               <li v-for="s in i.coursesections">
+                <a href="">{{s.name}}<span style="float: right">{{s.video_time}}</span></a>
+               </li>
+             </ul>
+           </li>
+         </ul>
+       </div>
+      </div>
+      <div v-show="a[2]">
+        <div style="height: 100px;width: 100%">
+          <h2>热评推荐</h2>
+        </div>
+        <div style="height: 100px;width: 100%">
+          <h2>全部评论</h2>
+        </div>
+      </div>
+      <div v-show="a[3]">
+        <h2>常见问题</h2>
+        <ul>
+          <li v-for="d in oftenaskedquestion">
+            <h3>{{d.question}}</h3>
+            <p>{{d.answer}}</p>
+          </li>
+        </ul>
+      </div>
     </div>
   </div>
 
@@ -64,7 +93,9 @@
         career_improvement: '',
         prerequisite: '',
         teachers: [],
-        a: [1, 0, 0, 0]
+        oftenaskedquestion: [],
+        a: [1, 0, 0, 0],
+        coursechapterList:[],
       }
     },
     mounted: function () {
@@ -76,8 +107,6 @@
           this.a = [0, 1, 0, 0]
         } else if (t == 3) {
           this.a = [0, 0, 1, 0]
-
-
         } else if (t == 4) {
           this.a = [0, 0, 0, 1]
 
@@ -97,6 +126,7 @@
           console.log(response)
           that.name = response.data.name
           that.hours = response.data.courses.hours
+          that.oftenaskedquestion = response.data.courses.oftenaskedquestion
           that.course_slogan = response.data.courses.course_slogan
           that.why_study = response.data.courses.why_study
           that.what_to_study_brief = response.data.courses.what_to_study_brief
@@ -105,6 +135,7 @@
           that.video_brief_link = response.data.courses.video_brief_link
           that.teachers = response.data.courses.teachers
           that.level = response.data.level
+          that.coursechapterList = response.data.coursechapterList
         })
       }
     }
@@ -114,7 +145,7 @@
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
-  ul li {
+  #qh li {
     list-style: none;
     display: inline-block;
     border: 1px solid #b7b4ed;
