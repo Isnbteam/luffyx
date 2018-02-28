@@ -12,8 +12,14 @@
   "dependencies": {
     "axios": "^0.18.0",
     "vue": "^2.5.2",
+<<<<<<< HEAD
     "vue-router": "^3.0.1",
     "webpack-cli": "^2.0.9"
+=======
+    "vue-cookies": "^1.5.5",
+    "vue-router": "^3.0.1",
+    "vuex": "^3.0.1"
+>>>>>>> 110e704269c11c0c94cf7e4e9a070569795ddd59
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",

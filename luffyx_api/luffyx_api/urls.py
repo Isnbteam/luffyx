@@ -16,9 +16,18 @@ Including another URLconf
 from django.conf.urls import url
 from django.contrib import admin
 from app import views
+<<<<<<< HEAD
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^news/$', views.NewsView.as_view()),
     url(r'^news/(?P<pk>\d+)\.(?P<format>[a-z0-9]+)$', views.NewsView.as_view()),
+=======
+urlpatterns = [
+    url(r'^admin/', admin.site.urls),
+    url(r'^login/', views.LoginView.as_view()),
+    url(r'^courses/$', views.CourseView.as_view()),
+    url(r'^courses/(?P<pk>\d+)\.(?P<format>[a-z0-9]+)$', views.CourseView.as_view()),
+
+>>>>>>> 110e704269c11c0c94cf7e4e9a070569795ddd59
 ]

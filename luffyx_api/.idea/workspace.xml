@@ -30,13 +30,19 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/luffyx_api/settings.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="277">
               <caret line="134" column="19" lean-forward="false" selection-start-line="134" selection-start-column="19" selection-end-line="134" selection-end-column="19" />
+=======
+            <state relative-caret-position="54">
+              <caret line="85" column="40" lean-forward="false" selection-start-line="85" selection-start-column="40" selection-end-line="85" selection-end-column="40" />
+>>>>>>> 110e704269c11c0c94cf7e4e9a070569795ddd59
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -47,6 +53,31 @@
                 <element signature="e#456#1046#0" expanded="false" />
                 <element signature="e#2920#3133#0" expanded="false" />
               </folding>
+=======
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+              <folding />
+>>>>>>> 110e704269c11c0c94cf7e4e9a070569795ddd59
+            </state>
+          </provider>
+        </entry>
+      </file>
+<<<<<<< HEAD
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1069">
+              <caret line="300" column="0" lean-forward="true" selection-start-line="300" selection-start-column="0" selection-end-line="300" selection-end-column="0" />
+=======
+      <file leaf-file-name="serializers.py" pinned="false" current-in-tab="false">
+        <entry file="file://C:/Python36/Lib/site-packages/rest_framework/serializers.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="366">
+              <caret line="659" column="0" lean-forward="false" selection-start-line="659" selection-start-column="0" selection-end-line="659" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -54,9 +85,59 @@
       <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1069">
-              <caret line="300" column="0" lean-forward="true" selection-start-line="300" selection-start-column="0" selection-end-line="300" selection-end-column="0" />
+            <state relative-caret-position="-6534">
+              <caret line="33" column="68" lean-forward="false" selection-start-line="33" selection-start-column="68" selection-end-line="33" selection-end-column="68" />
+<<<<<<< HEAD
+              <folding>
+                <marker date="1519743099019" expanded="true" signature="791:1726" ph="..." />
+                <marker date="1519743099019" expanded="true" signature="1701:1726" ph="..." />
+                <marker date="1519743099019" expanded="true" signature="1761:2086" ph="..." />
+                <marker date="1519743099019" expanded="true" signature="2028:2086" ph="..." />
+                <marker date="1519743099019" expanded="true" signature="2117:2584" ph="..." />
+                <marker date="1519743099019" expanded="true" signature="2559:2584" ph="..." />
+                <marker date="1519743099019" expanded="true" signature="2614:4182" ph="..." />
+                <marker date="1519743099019" expanded="true" signature="3900:3970" ph="..." />
+                <marker date="1519743099019" expanded="true" signature="4008:4182" ph="..." />
+                <marker date="1519743099019" expanded="true" signature="4042:4132" ph="..." />
+                <marker date="1519743099019" expanded="true" signature="4217:5085" ph="..." />
+                <marker date="1519743099019" expanded="true" signature="4431:4741" ph="..." />
+                <marker date="1519743099019" expanded="true" signature="4894:4966" ph="..." />
+                <marker date="1519743099019" expanded="true" signature="4990:5085" ph="..." />
+                <marker date="1519743099019" expanded="true" signature="5115:7225" ph="..." />
+                <marker date="1519743099019" expanded="true" signature="6536:6606" ph="..." />
+                <marker date="1519743099019" expanded="true" signature="6644:7225" ph="..." />
+                <marker date="1519743099019" expanded="true" signature="6734:7052" ph="..." />
+                <marker date="1519743099019" expanded="true" signature="6796:6946" ph="..." />
+                <marker date="1519743099019" expanded="true" signature="7261:8039" ph="..." />
+                <marker date="1519743099019" expanded="true" signature="8005:8039" ph="..." />
+                <marker date="1519743099019" expanded="true" signature="8081:8603" ph="..." />
+                <marker date="1519743099019" expanded="true" signature="8456:8518" ph="..." />
+                <marker date="1519743099019" expanded="true" signature="8535:8603" ph="..." />
+                <marker date="1519743099019" expanded="true" signature="8640:9005" ph="..." />
+                <marker date="1519743099019" expanded="true" signature="8902:8935" ph="..." />
+                <marker date="1519743099019" expanded="true" signature="8952:9005" ph="..." />
+                <marker date="1519743099019" expanded="true" signature="9042:9549" ph="..." />
+                <marker date="1519743099019" expanded="true" signature="9407:9455" ph="..." />
+                <marker date="1519743099019" expanded="true" signature="9479:9549" ph="..." />
+                <marker date="1519743099019" expanded="true" signature="9586:10519" ph="..." />
+                <marker date="1519743099019" expanded="true" signature="10389:10443" ph="..." />
+                <marker date="1519743099019" expanded="true" signature="10468:10519" ph="..." />
+                <marker date="1519743099019" expanded="true" signature="10613:10733" ph="..." />
+                <marker date="1519743099019" expanded="true" signature="10708:10733" ph="..." />
+                <marker date="1519743099019" expanded="true" signature="10764:12492" ph="..." />
+                <marker date="1519743099019" expanded="true" signature="12441:12492" ph="..." />
+                <marker date="1519743099019" expanded="true" signature="12526:12882" ph="..." />
+                <marker date="1519743099019" expanded="true" signature="12815:12882" ph="..." />
+                <marker date="1519743099019" expanded="true" signature="12913:13662" ph="..." />
+                <marker date="1519743099019" expanded="true" signature="12935:13181" ph="..." />
+                <marker date="1519743099019" expanded="true" signature="13634:13662" ph="..." />
+                <marker date="1519743099019" expanded="true" signature="13747:13874" ph="..." />
+                <marker date="1519743099019" expanded="true" signature="13915:13939" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+              </folding>
+=======
+>>>>>>> 110e704269c11c0c94cf7e4e9a070569795ddd59
               <folding />
+>>>>>>> zhangningyang
             </state>
           </provider>
         </entry>
@@ -64,10 +145,56 @@
       <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/luffyx_api/urls.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="143">
               <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
               <folding>
                 <element signature="e#644#676#0" expanded="true" />
+=======
+            <state relative-caret-position="225">
+              <caret line="19" column="37" lean-forward="false" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+              <folding>
+                <element signature="e#644#676#0" expanded="true" />
+<<<<<<< HEAD
+                <marker date="1519743099029" expanded="true" signature="764:765" ph="..." />
+=======
+>>>>>>> zhangningyang
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+            <state relative-caret-position="81">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+=======
+            <state relative-caret-position="380">
+              <caret line="19" column="34" lean-forward="false" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+              <folding>
+                <element signature="e#0#49#0" expanded="true" />
+              </folding>
+>>>>>>> zhangningyang
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+            <state relative-caret-position="-198">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+=======
+            <state relative-caret-position="135">
+              <caret line="21" column="28" lean-forward="false" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+>>>>>>> zhangningyang
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+>>>>>>> 110e704269c11c0c94cf7e4e9a070569795ddd59
               </folding>
             </state>
           </provider>
@@ -79,9 +206,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/app/__init__.py" />
-        <option value="$PROJECT_DIR$/luffyx_api/settings.py" />
-        <option value="$PROJECT_DIR$/app/models.py" />
         <option value="$PROJECT_DIR$/app/admin.py" />
+        <option value="$PROJECT_DIR$/app/models.py" />
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/app/admin.py" />
+=======
+        <option value="$PROJECT_DIR$/luffyx_api/settings.py" />
+>>>>>>> 110e704269c11c0c94cf7e4e9a070569795ddd59
         <option value="$PROJECT_DIR$/luffyx_api/urls.py" />
         <option value="$PROJECT_DIR$/app/views.py" />
       </list>
@@ -163,10 +294,18 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../luffyx" />
+=======
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/zny_0209_server" />
+>>>>>>> 110e704269c11c0c94cf7e4e9a070569795ddd59
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\张宁阳\luff\luffyx_api\static\img" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\张宁阳\luff\luffyx_api\static" />
       <recent name="C:\Users\张宁阳\luff\luffyx_api\app" />
     </key>
   </component>
@@ -422,28 +561,51 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12708019" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+=======
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25340393" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+>>>>>>> 110e704269c11c0c94cf7e4e9a070569795ddd59
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47521368" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+=======
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4280822" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+>>>>>>> 110e704269c11c0c94cf7e4e9a070569795ddd59
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32820514" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4764398" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32984293" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25341427" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -454,7 +616,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="2" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -521,6 +683,7 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#644#676#0" expanded="true" />
+<<<<<<< HEAD
           </folding>
         </state>
       </provider>
@@ -540,6 +703,11 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+=======
+<<<<<<< HEAD
+            <marker date="1519743099029" expanded="true" signature="764:765" ph="..." />
+          </folding>
+>>>>>>> 110e704269c11c0c94cf7e4e9a070569795ddd59
         </state>
       </provider>
     </entry>
@@ -549,6 +717,10 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#644#676#0" expanded="true" />
+<<<<<<< HEAD
+=======
+            <marker date="1519743099029" expanded="true" signature="764:765" ph="..." />
+>>>>>>> 110e704269c11c0c94cf7e4e9a070569795ddd59
           </folding>
         </state>
       </provider>
@@ -599,6 +771,9 @@
         <state relative-caret-position="277">
           <caret line="134" column="19" lean-forward="false" selection-start-line="134" selection-start-column="19" selection-end-line="134" selection-end-column="19" />
           <folding />
+=======
+          </folding>
+>>>>>>> zhangningyang
         </state>
       </provider>
     </entry>
@@ -615,9 +790,865 @@
         <state relative-caret-position="-664">
           <caret line="58" column="0" lean-forward="true" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
           <folding>
+<<<<<<< HEAD
             <element signature="e#0#48#0" expanded="true" />
             <element signature="e#456#1046#0" expanded="false" />
             <element signature="e#2920#3133#0" expanded="false" />
+=======
+            <marker date="1519743099019" expanded="true" signature="791:1726" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="1701:1726" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="1761:2086" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="2028:2086" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="2117:2584" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="2559:2584" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="2614:4182" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="3900:3970" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="4008:4182" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="4042:4132" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="4217:5085" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="4431:4741" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="4894:4966" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="4990:5085" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="5115:7225" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="6536:6606" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="6644:7225" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="6734:7052" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="6796:6946" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="7261:8039" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="8005:8039" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="8081:8603" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="8456:8518" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="8535:8603" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="8640:9005" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="8902:8935" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="8952:9005" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="9042:9549" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="9407:9455" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="9479:9549" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="9586:10519" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="10389:10443" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="10468:10519" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="10613:10733" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="10708:10733" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="10764:12492" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="12441:12492" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="12526:12882" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="12815:12882" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="12913:13662" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="12935:13181" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="13634:13662" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="13747:13874" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="13915:13939" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luffyx_api/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luffyx_api/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#644#676#0" expanded="true" />
+            <marker date="1519743099029" expanded="true" signature="764:765" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luffyx_api/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#644#676#0" expanded="true" />
+            <marker date="1519743099029" expanded="true" signature="764:765" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/media/uploads/avatar/default.png" />
+    <entry file="file://$PROJECT_DIR$/luffyx_api/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1456">
+          <caret line="133" column="37" lean-forward="false" selection-start-line="133" selection-start-column="37" selection-end-line="133" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <marker date="1519743099019" expanded="true" signature="791:1726" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="1701:1726" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="1761:2086" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="2028:2086" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="2117:2584" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="2559:2584" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="2614:4182" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="3900:3970" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="4008:4182" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="4042:4132" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="4217:5085" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="4431:4741" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="4894:4966" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="4990:5085" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="5115:7225" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="6536:6606" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="6644:7225" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="6734:7052" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="6796:6946" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="7261:8039" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="8005:8039" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="8081:8603" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="8456:8518" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="8535:8603" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="8640:9005" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="8902:8935" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="8952:9005" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="9042:9549" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="9407:9455" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="9479:9549" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="9586:10519" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="10389:10443" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="10468:10519" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="10613:10733" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="10708:10733" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="10764:12492" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="12441:12492" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="12526:12882" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="12815:12882" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="12913:13662" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="12935:13181" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="13634:13662" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="13747:13874" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="13915:13939" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luffyx_api/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#644#676#0" expanded="true" />
+<<<<<<< HEAD
+            <marker date="1519743099029" expanded="true" signature="764:765" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luffyx_api/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2">
+          <caret line="82" column="1" lean-forward="true" selection-start-line="82" selection-start-column="1" selection-end-line="82" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luffyx_api/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+=======
+          </folding>
+>>>>>>> zhangningyang
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luffyx_api/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#644#676#0" expanded="true" />
+            <marker date="1519743099029" expanded="true" signature="764:765" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luffyx_api/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#644#676#0" expanded="true" />
+            <marker date="1519743099029" expanded="true" signature="764:765" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/media/uploads/avatar/default.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luffyx_api/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1456">
+          <caret line="133" column="37" lean-forward="false" selection-start-line="133" selection-start-column="37" selection-end-line="133" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+<<<<<<< HEAD
+          <folding>
+            <marker date="1519743099019" expanded="true" signature="791:1726" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="1701:1726" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="1761:2086" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="2028:2086" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="2117:2584" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="2559:2584" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="2614:4182" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="3900:3970" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="4008:4182" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="4042:4132" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="4217:5085" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="4431:4741" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="4894:4966" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="4990:5085" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="5115:7225" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="6536:6606" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="6644:7225" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="6734:7052" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="6796:6946" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="7261:8039" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="8005:8039" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="8081:8603" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="8456:8518" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="8535:8603" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="8640:9005" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="8902:8935" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="8952:9005" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="9042:9549" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="9407:9455" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="9479:9549" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="9586:10519" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="10389:10443" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="10468:10519" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="10613:10733" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="10708:10733" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="10764:12492" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="12441:12492" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="12526:12882" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="12815:12882" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="12913:13662" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="12935:13181" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="13634:13662" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="13747:13874" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="13915:13939" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+          </folding>
+=======
+          <folding />
+>>>>>>> zhangningyang
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luffyx_api/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#644#676#0" expanded="true" />
+<<<<<<< HEAD
+            <marker date="1519743099029" expanded="true" signature="764:765" ph="..." />
+=======
+>>>>>>> zhangningyang
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luffyx_api/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2">
+          <caret line="82" column="1" lean-forward="true" selection-start-line="82" selection-start-column="1" selection-end-line="82" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luffyx_api/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luffyx_api/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#644#676#0" expanded="true" />
+<<<<<<< HEAD
+            <marker date="1519743099029" expanded="true" signature="764:765" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/media/uploads/avatar/default.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-198">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6534">
+          <caret line="33" column="68" lean-forward="false" selection-start-line="33" selection-start-column="68" selection-end-line="33" selection-end-column="68" />
+          <folding>
+            <marker date="1519743099019" expanded="true" signature="791:1726" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="1701:1726" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="1761:2086" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="2028:2086" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="2117:2584" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="2559:2584" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="2614:4182" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="3900:3970" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="4008:4182" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="4042:4132" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="4217:5085" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="4431:4741" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="4894:4966" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="4990:5085" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="5115:7225" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="6536:6606" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="6644:7225" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="6734:7052" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="6796:6946" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="7261:8039" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="8005:8039" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="8081:8603" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="8456:8518" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="8535:8603" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="8640:9005" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="8902:8935" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="8952:9005" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="9042:9549" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="9407:9455" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="9479:9549" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="9586:10519" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="10389:10443" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="10468:10519" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="10613:10733" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="10708:10733" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="10764:12492" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="12441:12492" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="12526:12882" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="12815:12882" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="12913:13662" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="12935:13181" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="13634:13662" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="13747:13874" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="13915:13939" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luffyx_api/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="85" column="40" lean-forward="false" selection-start-line="85" selection-start-column="40" selection-end-line="85" selection-end-column="40" />
+          <folding />
+=======
+          </folding>
+>>>>>>> zhangningyang
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luffyx_api/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="19" column="37" lean-forward="false" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+          <folding>
+            <element signature="e#644#676#0" expanded="true" />
+            <marker date="1519743099029" expanded="true" signature="764:765" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python36/Lib/site-packages/rest_framework/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="659" column="0" lean-forward="false" selection-start-line="659" selection-start-column="0" selection-end-line="659" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luffyx_api/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#644#676#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luffyx_api/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#644#676#0" expanded="true" />
+            <marker date="1519743099029" expanded="true" signature="764:765" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luffyx_api/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#644#676#0" expanded="true" />
+            <marker date="1519743099029" expanded="true" signature="764:765" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/media/uploads/avatar/default.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luffyx_api/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1456">
+          <caret line="133" column="37" lean-forward="false" selection-start-line="133" selection-start-column="37" selection-end-line="133" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="81">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <marker date="1519743099019" expanded="true" signature="791:1726" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="1701:1726" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="1761:2086" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="2028:2086" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="2117:2584" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="2559:2584" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="2614:4182" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="3900:3970" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="4008:4182" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="4042:4132" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="4217:5085" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="4431:4741" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="4894:4966" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="4990:5085" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="5115:7225" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="6536:6606" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="6644:7225" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="6734:7052" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="6796:6946" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="7261:8039" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="8005:8039" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="8081:8603" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="8456:8518" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="8535:8603" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="8640:9005" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="8902:8935" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="8952:9005" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="9042:9549" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="9407:9455" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="9479:9549" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="9586:10519" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="10389:10443" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="10468:10519" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="10613:10733" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="10708:10733" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="10764:12492" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="12441:12492" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="12526:12882" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="12815:12882" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="12913:13662" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="12935:13181" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="13634:13662" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="13747:13874" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="13915:13939" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+=======
+        <state relative-caret-position="594">
+          <caret line="43" column="32" lean-forward="true" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luffyx_api/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luffyx_api/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#644#676#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luffyx_api/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#644#676#0" expanded="true" />
+>>>>>>> zhangningyang
+          </folding>
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/app/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/media/uploads/avatar/default.png" />
+    <entry file="file://$PROJECT_DIR$/luffyx_api/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1456">
+          <caret line="133" column="37" lean-forward="false" selection-start-line="133" selection-start-column="37" selection-end-line="133" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> zhangningyang
+    <entry file="file://$PROJECT_DIR$/luffyx_api/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#644#676#0" expanded="true" />
+<<<<<<< HEAD
+            <marker date="1519743099029" expanded="true" signature="764:765" ph="..." />
+=======
+>>>>>>> zhangningyang
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luffyx_api/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2">
+          <caret line="82" column="1" lean-forward="true" selection-start-line="82" selection-start-column="1" selection-end-line="82" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luffyx_api/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luffyx_api/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#644#676#0" expanded="true" />
+<<<<<<< HEAD
+            <marker date="1519743099029" expanded="true" signature="764:765" ph="..." />
+=======
+>>>>>>> zhangningyang
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luffyx_api/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="225">
+          <caret line="19" column="37" lean-forward="false" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+          <folding>
+            <element signature="e#644#676#0" expanded="true" />
+            <marker date="1519743099029" expanded="true" signature="764:765" ph="..." />
+=======
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#644#676#0" expanded="true" />
+>>>>>>> zhangningyang
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="54">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+=======
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> zhangningyang
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/media/uploads/avatar/default.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luffyx_api/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="54">
+          <caret line="85" column="40" lean-forward="false" selection-start-line="85" selection-start-column="40" selection-end-line="85" selection-end-column="40" />
+=======
+        <state relative-caret-position="1456">
+          <caret line="133" column="37" lean-forward="false" selection-start-line="133" selection-start-column="37" selection-end-line="133" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luffyx_api/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#644#676#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luffyx_api/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2">
+          <caret line="82" column="1" lean-forward="true" selection-start-line="82" selection-start-column="1" selection-end-line="82" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luffyx_api/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> zhangningyang
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/luffyx_api/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#644#676#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/media/uploads/avatar/default.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="21" column="28" lean-forward="false" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+>>>>>>> zhangningyang
+    <entry file="file://$PROJECT_DIR$/app/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6534">
+          <caret line="33" column="68" lean-forward="false" selection-start-line="33" selection-start-column="68" selection-end-line="33" selection-end-column="68" />
+<<<<<<< HEAD
+          <folding>
+            <marker date="1519743099019" expanded="true" signature="791:1726" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="1701:1726" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="1761:2086" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="2028:2086" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="2117:2584" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="2559:2584" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="2614:4182" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="3900:3970" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="4008:4182" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="4042:4132" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="4217:5085" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="4431:4741" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="4894:4966" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="4990:5085" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="5115:7225" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="6536:6606" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="6644:7225" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="6734:7052" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="6796:6946" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="7261:8039" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="8005:8039" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="8081:8603" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="8456:8518" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="8535:8603" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="8640:9005" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="8902:8935" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="8952:9005" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="9042:9549" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="9407:9455" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="9479:9549" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="9586:10519" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="10389:10443" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="10468:10519" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="10613:10733" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="10708:10733" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="10764:12492" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="12441:12492" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="12526:12882" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="12815:12882" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="12913:13662" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="12935:13181" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="13634:13662" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="13747:13874" ph="..." />
+            <marker date="1519743099019" expanded="true" signature="13915:13939" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+=======
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luffyx_api/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="85" column="40" lean-forward="false" selection-start-line="85" selection-start-column="40" selection-end-line="85" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luffyx_api/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="19" column="37" lean-forward="false" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+          <folding>
+            <element signature="e#644#676#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python36/Lib/site-packages/rest_framework/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="659" column="0" lean-forward="false" selection-start-line="659" selection-start-column="0" selection-end-line="659" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" column="34" lean-forward="false" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+>>>>>>> zhangningyang
+>>>>>>> 110e704269c11c0c94cf7e4e9a070569795ddd59
           </folding>
         </state>
       </provider>
