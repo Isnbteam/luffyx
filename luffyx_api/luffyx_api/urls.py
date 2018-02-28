@@ -15,7 +15,10 @@ Including another URLconf
 """
 from django.conf.urls import url
 from django.contrib import admin
+from app import views
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
+    url(r'^news/$', views.NewsView.as_view()),
+    url(r'^news/(?P<pk>\d+)\.(?P<format>[a-z0-9]+)$', views.NewsView.as_view()),
 ]

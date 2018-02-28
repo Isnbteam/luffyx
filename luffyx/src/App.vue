@@ -1,7 +1,14 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
+    <div>
+      <router-link to="/index">首页</router-link>
+      <router-link to="/course">课程</router-link>
+      <router-link to="/micro">学位课</router-link>
+      <router-link to="/news">深科技</router-link>
+
+    </div>
     <router-view/>
+    <h1>尾部</h1>
   </div>
 </template>
 
